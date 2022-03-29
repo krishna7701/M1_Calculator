@@ -26,4 +26,4 @@ jobs:
     - name: Install gcov 
       run: sudo apt -y install gcovr
     - name: make 
-      run: make coverage -C unit calculator /implementation
+      run: make coverage -C unit calculator /3_Implementation

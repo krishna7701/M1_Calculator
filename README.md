@@ -9,3 +9,5 @@ A calculator is a device that performs arithmetic operations on numbers. The sim
 [![Git Inspector](https://github.com/krishna7701/M1_Calculator/actions/workflows/Git-Inspector.yml/badge.svg)](https://github.com/krishna7701/M1_Calculator/actions/workflows/Git-Inspector.yml)
 
 [![C/C++ CI](https://github.com/krishna7701/M1_Calculator/actions/workflows/c++.yml/badge.svg)](https://github.com/krishna7701/M1_Calculator/actions/workflows/c++.yml)
+
+[![Unit Testing - Unity](https://github.com/krishna7701/M1_Calculator/actions/workflows/Unity.yml/badge.svg)](https://github.com/krishna7701/M1_Calculator/actions/workflows/Unity.yml)

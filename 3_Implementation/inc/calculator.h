@@ -1,14 +1,14 @@
 /** 
-* @file calculator_operations.h
+* @file calculator.h
 * Calculator application with 4 mathematical operations
 *
 */
-#ifndef __CALCULATOR_OPERATIONS_H__
-#define __CALCULATOR_OPERATIONS_H__
+#ifndef __CALCULATOR_H__
+#define __CALCULATOR_H__
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdio_ext.h>
+
 
 /**
 *  adds the operand1 and operand2 and returns the result

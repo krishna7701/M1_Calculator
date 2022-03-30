@@ -4,3 +4,4 @@ A calculator is a device that performs arithmetic operations on numbers. The sim
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/fce7f4470b8e41218c37a385df12f314)](https://www.codacy.com/gh/krishna7701/M1_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=krishna7701/M1_Calculator&amp;utm_campaign=Badge_Grade)
 
+[![Valgrind](https://github.com/krishna7701/M1_Calculator/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/krishna7701/M1_Calculator/actions/workflows/Valgrind.yml)

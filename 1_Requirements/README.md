@@ -38,7 +38,7 @@ The memory chips inside the calculator thousands or millions by bytesprogram cod
 | STRENGTHS | WEAKNESS | OPPORTUNITIES | THREATS |
 | ---- | ---- | ---- | ---- |
 | can solve complicated problem easily | People will become lazy | The future value calculator can be used to determine future value, or financing. | Cheating. The availability of graphic calculators has made it easier for students to cheat during their tests. |
-| The ultimate strength calculators is its innovative,user-friendly and long lasting etc.. | do not include all the operations rather have only addition,subtraction, multiplication, division, power , factorial,volume and length | The tech-based market has a huge opportunities in capturing the youth market. And this calculator comparatively already one step ahead than other | The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world. |
+| The ultimate strength calculators is its innovative,user-friendly and long lasting etc.. | do not include all the operations rather have only addition,subtraction, multiplication, division along with complex and fraction numbers | The tech-based market has a huge opportunities in capturing the youth market. And this calculator comparatively already one step ahead than other | The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world. |
 
 
 ## High Level requirements:-
@@ -50,9 +50,9 @@ The memory chips inside the calculator thousands or millions by bytesprogram cod
 | HLR04 | The system should provide correct result | technical |
 
 ## Low Level Requirements:-
-| L1:Basic Operation | L2:Differentconversion | L3:Basic math function |
-| ---- | ---- | ---- |
-| Basic operations like additon, substraction, multiplication and division takes place. | All the conversions of Length, speed and volume. | In this basic math functions like square root, power, exponentials takes place |
+| L1:Basic Operation | L2:DifferentNumbers | 
+| ---- | ---- |
+| Basic operations like additon, substraction, multiplication and division takes place. | All the operations are done with Natural, complex and fraction numbers. |
 
 
 

@@ -1,9 +1,9 @@
 # Calculator  
 
 ## Introduction:-   
-Simple calculator is a project to allow users to calculate basic operations in mathematics , they are addition, subtraction, multiplication, division but in this project which I Implemented additonal operations such as Factorial,power, Length converter,Volume converter and speed converter. 
+Simple calculator is a project to allow users to calculate basic operations in mathematics , they are addition, subtraction, multiplication, division but in this project which I Implemented operations with complex and fractions numbers. 
 
-The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/Length/volume/speed, in another word it is implemented with the
+The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction, in another word it is implemented with the
 order of precedence logic.    
 
 

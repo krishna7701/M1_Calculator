@@ -55,4 +55,7 @@ The memory chips inside the calculator thousands or millions by bytesprogram cod
 | Basic operations like additon, substraction, multiplication and division takes place. | All the operations are done with Natural, complex and fraction numbers. |
 
 
+# References
+[Structures](https://www.geeksforgeeks.org/structures-c/)
+
 
